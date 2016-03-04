@@ -7,4 +7,5 @@ add .env file at the root of the directory with the following values
 
 
 API_URL = "VALUE OF THE API URL"
+
 MICROSERVICE_EMAIL_COMPOSER_ARN = "ARN_OF_THE_LAMBDA_FUNCTION"
